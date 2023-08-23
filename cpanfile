@@ -1,0 +1,10 @@
+requires 'XML::Parser', '>=2.44';
+requires 'XML::RPC', '>=0.9';
+requires 'RPC::XML', '>=1.61';
+requires 'LWP::Protocol::https', '>=6.07';
+requires 'IO::Socket::SSL', '>=2.050';
+requires 'Text::CSV_XS', '>=1.31';
+requires 'Config::Tiny', '>=2.23';
+requires 'Carp', '>=1.38';
+requires 'Data::Dumper', '>=2.161';
+requires 'REST::Client', '>=273';
